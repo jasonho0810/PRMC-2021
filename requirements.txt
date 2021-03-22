@@ -1,0 +1,7 @@
+matplotlib
+pandas
+numpy
+tqdm
+statsmodels
+py_vollib
+warnings
